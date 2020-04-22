@@ -1,0 +1,5 @@
+C:\Users\semih\source\repos\EmlakOtomasyonu\OtomasyonClass\bin\Debug\OtomasyonClass.dll
+C:\Users\semih\source\repos\EmlakOtomasyonu\OtomasyonClass\bin\Debug\OtomasyonClass.pdb
+C:\Users\semih\source\repos\EmlakOtomasyonu\OtomasyonClass\obj\Debug\OtomasyonClass.dll
+C:\Users\semih\source\repos\EmlakOtomasyonu\OtomasyonClass\obj\Debug\OtomasyonClass.pdb
+C:\Users\semih\source\repos\EmlakOtomasyonu\OtomasyonClass\obj\Debug\OtomasyonClass.csprojAssemblyReference.cache
